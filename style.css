@@ -1,0 +1,14 @@
+.main{
+    width:100%;
+    height:800px;
+    background-image: url('./cover.jpg');  /* ./imagename   -image in the same directory   ../  */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  /* fix the main section ,,,allow scrolling the other contents*/
+}
+.container{
+    width:100%;
+    height:700px;
+    background-color: rgb(0, 11, 96);
+}
+
